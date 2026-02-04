@@ -1,0 +1,1862 @@
+[
+  {
+    "id": 1,
+    "name": "Abrar Salihu",
+    "subjects": [
+      {
+        "name": "Gjuhë Shqipe",
+        "grade": 2
+      },
+      {
+        "name": "Gjuhë Angleze",
+        "grade": 4
+      },
+      {
+        "name": "Matematikë",
+        "grade": 3
+      },
+      {
+        "name": "Fizikë",
+        "grade": 2
+      },
+      {
+        "name": "Edukatë Qytetare",
+        "grade": 2
+      },
+      {
+        "name": "Edukatë Fizike",
+        "grade": 5
+      },
+      {
+        "name": "Përdorimi i MS Office",
+        "grade": 3
+      },
+      {    
+        "name": "Përpunimi dhe vlerësimi i të dhënave",
+        "grade": 3
+      },
+      {    
+        "name": "Instalimi i paisjeve kompjuterike",
+        "grade": 5
+      },
+      {    
+        "name": "Instalimi, konfigurimi i shërbimeve të serverit",
+        "grade": 4
+      },
+      {    
+        "name": "Realizimi i detyrave të TIK-ut",
+        "grade": 3
+      },
+      {    
+        "name": "Krijimi dhe publikimi i webfaqeve",
+        "grade": 3
+      },
+      {    
+        "name": "ISPP",
+        "grade": 3
+      },
+      {    
+        "name": "Praktika profesionale",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Ajla Hoxha",
+    "subjects": [
+      {
+        "name": "Gjuhë Shqipe",
+        "grade": 2
+      },
+      {
+        "name": "Gjuhë Angleze",
+        "grade": 5
+      },
+      {
+        "name": "Matematikë",
+        "grade": 3
+      },
+      {
+        "name": "Fizikë",
+        "grade": 1
+      },
+      {
+        "name": "Edukatë Qytetare",
+        "grade": 2
+      },
+      {
+        "name": "Edukatë Fizike",
+        "grade": 4
+      },
+      {
+        "name": "Përdorimi i MS Office",
+        "grade": 4
+      },
+      {    
+        "name": "Përpunimi dhe vlerësimi i të dhënave",
+        "grade": 2
+      },
+      {    
+        "name": "Instalimi i paisjeve kompjuterike",
+        "grade": 2
+      },
+      {    
+        "name": "Instalimi, konfigurimi i shërbimeve të serverit",
+        "grade": 4
+      },
+      {    
+        "name": "Realizimi i detyrave të TIK-ut",
+        "grade": 2
+      },
+      {    
+        "name": "Krijimi dhe publikimi i webfaqeve",
+        "grade": 2
+      },
+      {    
+        "name": "ISPP",
+        "grade": 2
+      },
+      {    
+        "name": "Praktika profesionale",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Amar Fetahu",
+    "subjects": [
+      {
+        "name": "Gjuhë Shqipe",
+        "grade": 4
+      },
+      {
+        "name": "Gjuhë Angleze",
+        "grade": 4
+      },
+      {
+        "name": "Matematikë",
+        "grade": 3
+      },
+      {
+        "name": "Fizikë",
+        "grade": 3
+      },
+      {
+        "name": "Edukatë Qytetare",
+        "grade": 4
+      },
+      {
+        "name": "Edukatë Fizike",
+        "grade": 5
+      },
+      {
+        "name": "Përdorimi i MS Office",
+        "grade": 4
+      },
+      {    
+        "name": "Përpunimi dhe vlerësimi i të dhënave",
+        "grade": 3
+      },
+      {    
+        "name": "Instalimi i paisjeve kompjuterike",
+        "grade": 4
+      },
+      {    
+        "name": "Instalimi, konfigurimi i shërbimeve të serverit",
+        "grade": 5
+      },
+      {    
+        "name": "Realizimi i detyrave të TIK-ut",
+        "grade": 4
+      },
+      {    
+        "name": "Krijimi dhe publikimi i webfaqeve",
+        "grade": 4
+      },
+      {    
+        "name": "ISPP",
+        "grade": 4
+      },
+      {    
+        "name": "Praktika profesionale",
+        "grade": 4
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Andi Banushi",
+    "subjects": [
+      {
+        "name": "Gjuhë Shqipe",
+        "grade": 5
+      },
+      {
+        "name": "Gjuhë Angleze",
+        "grade": 3
+      },
+      {
+        "name": "Matematikë",
+        "grade": 4
+      },
+      {
+        "name": "Fizikë",
+        "grade": 4
+      },
+      {
+        "name": "Edukatë Qytetare",
+        "grade": 3
+      },
+      {
+        "name": "Edukatë Fizike",
+        "grade": 5
+      },
+      {
+        "name": "Përdorimi i MS Office",
+        "grade": 5
+      },
+      {    
+        "name": "Përpunimi dhe vlerësimi i të dhënave",
+        "grade": 4
+      },
+      {    
+        "name": "Instalimi i paisjeve kompjuterike",
+        "grade": 5
+      },
+      {    
+        "name": "Instalimi, konfigurimi i shërbimeve të serverit",
+        "grade": 5
+      },
+      {    
+        "name": "Realizimi i detyrave të TIK-ut",
+        "grade": 4
+      },
+      {    
+        "name": "Krijimi dhe publikimi i webfaqeve",
+        "grade": 4
+      },
+      {    
+        "name": "ISPP",
+        "grade": 4
+      },
+      {    
+        "name": "Praktika profesionale",
+        "grade": 4
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Andi Milazimi",
+    "subjects": [
+      {
+        "name": "Gjuhë Shqipe",
+        "grade": 5
+      },
+      {
+        "name": "Gjuhë Angleze",
+        "grade": 4
+      },
+      {
+        "name": "Matematikë",
+        "grade": 4
+      },
+      {
+        "name": "Fizikë",
+        "grade": 4
+      },
+      {
+        "name": "Edukatë Qytetare",
+        "grade": 4
+      },
+      {
+        "name": "Edukatë Fizike",
+        "grade": 5
+      },
+      {
+        "name": "Përdorimi i MS Office",
+        "grade": 5
+      },
+      {    
+        "name": "Përpunimi dhe vlerësimi i të dhënave",
+        "grade": 5
+      },
+      {    
+        "name": "Instalimi i paisjeve kompjuterike",
+        "grade": 5
+      },
+      {    
+        "name": "Instalimi, konfigurimi i shërbimeve të serverit",
+        "grade": 5
+      },
+      {    
+        "name": "Realizimi i detyrave të TIK-ut",
+        "grade": 4
+      },
+      {    
+        "name": "Krijimi dhe publikimi i webfaqeve",
+        "grade": 4
+      },
+      {    
+        "name": "ISPP",
+        "grade": 4
+      },
+      {    
+        "name": "Praktika profesionale",
+        "grade": 4
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Anik Salihu",
+    "subjects": [
+      {
+        "name": "Gjuhë Shqipe",
+        "grade": 4
+      },
+      {
+        "name": "Gjuhë Angleze",
+        "grade": 5
+      },
+      {
+        "name": "Matematikë",
+        "grade": 3
+      },
+      {
+        "name": "Fizikë",
+        "grade": 3
+      },
+      {
+        "name": "Edukatë Qytetare",
+        "grade": 3
+      },
+      {
+        "name": "Edukatë Fizike",
+        "grade": 5
+      },
+      {
+        "name": "Përdorimi i MS Office",
+        "grade": 4
+      },
+      {    
+        "name": "Përpunimi dhe vlerësimi i të dhënave",
+        "grade": 4
+      },
+      {    
+        "name": "Instalimi i paisjeve kompjuterike",
+        "grade": 5
+      },
+      {    
+        "name": "Instalimi, konfigurimi i shërbimeve të serverit",
+        "grade": 3
+      },
+      {    
+        "name": "Realizimi i detyrave të TIK-ut",
+        "grade": 3
+      },
+      {    
+        "name": "Krijimi dhe publikimi i webfaqeve",
+        "grade": 3
+      },
+      {    
+        "name": "ISPP",
+        "grade": 4
+      },
+      {    
+        "name": "Praktika profesionale",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Aurela Aliji",
+    "subjects": [
+      {
+        "name": "Gjuhë Shqipe",
+        "grade": 2
+      },
+      {
+        "name": "Gjuhë Angleze",
+        "grade": 4
+      },
+      {
+        "name": "Matematikë",
+        "grade": 2
+      },
+      {
+        "name": "Fizikë",
+        "grade": 2
+      },
+      {
+        "name": "Edukatë Qytetare",
+        "grade": 2
+      },
+      {
+        "name": "Edukatë Fizike",
+        "grade": 5
+      },
+      {
+        "name": "Përdorimi i MS Office",
+        "grade": 3
+      },
+      {    
+        "name": "Përpunimi dhe vlerësimi i të dhënave",
+        "grade": 3
+      },
+      {    
+        "name": "Instalimi i paisjeve kompjuterike",
+        "grade": 1
+      },
+      {    
+        "name": "Instalimi, konfigurimi i shërbimeve të serverit",
+        "grade": 4
+      },
+      {    
+        "name": "Realizimi i detyrave të TIK-ut",
+        "grade": 3
+      },
+      {    
+        "name": "Krijimi dhe publikimi i webfaqeve",
+        "grade": 3
+      },
+      {    
+        "name": "ISPP",
+        "grade": 3
+      },
+      {    
+        "name": "Praktika profesionale",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Bamir Azizi",
+    "subjects": [
+      {
+        "name": "Gjuhë Shqipe",
+        "grade": 2
+      },
+      {
+        "name": "Gjuhë Angleze",
+        "grade": 3
+      },
+      {
+        "name": "Matematikë",
+        "grade": 2
+      },
+      {
+        "name": "Fizikë",
+        "grade": 2
+      },
+      {
+        "name": "Edukatë Qytetare",
+        "grade": 2
+      },
+      {
+        "name": "Edukatë Fizike",
+        "grade": 5
+      },
+      {
+        "name": "Përdorimi i MS Office",
+        "grade": 3
+      },
+      {    
+        "name": "Përpunimi dhe vlerësimi i të dhënave",
+        "grade": 3
+      },
+      {    
+        "name": "Instalimi i paisjeve kompjuterike",
+        "grade": 3
+      },
+      {    
+        "name": "Instalimi, konfigurimi i shërbimeve të serverit",
+        "grade": 3
+      },
+      {    
+        "name": "Realizimi i detyrave të TIK-ut",
+        "grade": 3
+      },
+      {    
+        "name": "Krijimi dhe publikimi i webfaqeve",
+        "grade": 2
+      },
+      {    
+        "name": "ISPP",
+        "grade": 3
+      },
+      {    
+        "name": "Praktika profesionale",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Brilant Beqiri",
+    "subjects": [
+      {
+        "name": "Gjuhë Shqipe",
+        "grade": 3
+      },
+      {
+        "name": "Gjuhë Angleze",
+        "grade": 3
+      },
+      {
+        "name": "Matematikë",
+        "grade": 3
+      },
+      {
+        "name": "Fizikë",
+        "grade": 3
+      },
+      {
+        "name": "Edukatë Qytetare",
+        "grade": 3
+      },
+      {
+        "name": "Edukatë Fizike",
+        "grade": 3
+      },
+      {
+        "name": "Përdorimi i MS Office",
+        "grade": 3
+      },
+      {    
+        "name": "Përpunimi dhe vlerësimi i të dhënave",
+        "grade": 3
+      },
+      {    
+        "name": "Instalimi i paisjeve kompjuterike",
+        "grade": 3
+      },
+      {    
+        "name": "Instalimi, konfigurimi i shërbimeve të serverit",
+        "grade": 3
+      },
+      {    
+        "name": "Realizimi i detyrave të TIK-ut",
+        "grade": 3
+      },
+      {    
+        "name": "Krijimi dhe publikimi i webfaqeve",
+        "grade": 3
+      },
+      {    
+        "name": "ISPP",
+        "grade": 3
+      },
+      {    
+        "name": "Praktika profesionale",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Donat Bojaxhinci",
+    "subjects": [
+      {
+        "name": "Gjuhë Shqipe",
+        "grade": 2
+      },
+      {
+        "name": "Gjuhë Angleze",
+        "grade": 2
+      },
+      {
+        "name": "Matematikë",
+        "grade": 2
+      },
+      {
+        "name": "Fizikë",
+        "grade": 1
+      },
+      {
+        "name": "Edukatë Qytetare",
+        "grade": 2
+      },
+      {
+        "name": "Edukatë Fizike",
+        "grade": 4
+      },
+      {
+        "name": "Përdorimi i MS Office",
+        "grade": 3
+      },
+      {    
+        "name": "Përpunimi dhe vlerësimi i të dhënave",
+        "grade": 1
+      },
+      {    
+        "name": "Instalimi i paisjeve kompjuterike",
+        "grade": 1
+      },
+      {    
+        "name": "Instalimi, konfigurimi i shërbimeve të serverit",
+        "grade": 4
+      },
+      {    
+        "name": "Realizimi i detyrave të TIK-ut",
+        "grade": 2
+      },
+      {    
+        "name": "Krijimi dhe publikimi i webfaqeve",
+        "grade": 2
+      },
+      {    
+        "name": "ISPP",
+        "grade": 2
+      },
+      {    
+        "name": "Praktika profesionale",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Eneda Mushica",
+    "subjects": [
+      {
+        "name": "Gjuhë Shqipe",
+        "grade": 1
+      },
+      {
+        "name": "Gjuhë Angleze",
+        "grade": 4
+      },
+      {
+        "name": "Matematikë",
+        "grade": 2
+      },
+      {
+        "name": "Fizikë",
+        "grade": 2
+      },
+      {
+        "name": "Edukatë Qytetare",
+        "grade": 1
+      },
+      {
+        "name": "Edukatë Fizike",
+        "grade": 5
+      },
+      {
+        "name": "Përdorimi i MS Office",
+        "grade": 3
+      },
+      {    
+        "name": "Përpunimi dhe vlerësimi i të dhënave",
+        "grade": 3
+      },
+      {    
+        "name": "Instalimi i paisjeve kompjuterike",
+        "grade": 3
+      },
+      {    
+        "name": "Instalimi, konfigurimi i shërbimeve të serverit",
+        "grade": 3
+      },
+      {    
+        "name": "Realizimi i detyrave të TIK-ut",
+        "grade": 3
+      },
+      {    
+        "name": "Krijimi dhe publikimi i webfaqeve",
+        "grade": 2
+      },
+      {    
+        "name": "ISPP",
+        "grade": 2
+      },
+      {    
+        "name": "Praktika profesionale",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Enes Halili",
+    "subjects": [
+      {
+        "name": "Gjuhë Shqipe",
+        "grade": 5
+      },
+      {
+        "name": "Gjuhë Angleze",
+        "grade": 5
+      },
+      {
+        "name": "Matematikë",
+        "grade": 5
+      },
+      {
+        "name": "Fizikë",
+        "grade": 5
+      },
+      {
+        "name": "Edukatë Qytetare",
+        "grade": 5
+      },
+      {
+        "name": "Edukatë Fizike",
+        "grade": 5
+      },
+      {
+        "name": "Përdorimi i MS Office",
+        "grade": 5
+      },
+      {    
+        "name": "Përpunimi dhe vlerësimi i të dhënave",
+        "grade": 5
+      },
+      {    
+        "name": "Instalimi i paisjeve kompjuterike",
+        "grade": 5
+      },
+      {    
+        "name": "Instalimi, konfigurimi i shërbimeve të serverit",
+        "grade": 5
+      },
+      {    
+        "name": "Realizimi i detyrave të TIK-ut",
+        "grade": 5
+      },
+      {    
+        "name": "Krijimi dhe publikimi i webfaqeve",
+        "grade": 5
+      },
+      {    
+        "name": "ISPP",
+        "grade": 5
+      },
+      {    
+        "name": "Praktika profesionale",
+        "grade": 5
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Enes Sherifi",
+    "subjects": [
+      {
+        "name": "Gjuhë Shqipe",
+        "grade": 2
+      },
+      {
+        "name": "Gjuhë Angleze",
+        "grade": 2
+      },
+      {
+        "name": "Matematikë",
+        "grade": 2
+      },
+      {
+        "name": "Fizikë",
+        "grade": 1
+      },
+      {
+        "name": "Edukatë Qytetare",
+        "grade": 2
+      },
+      {
+        "name": "Edukatë Fizike",
+        "grade": 5
+      },
+      {
+        "name": "Përdorimi i MS Office",
+        "grade": 3
+      },
+      {    
+        "name": "Përpunimi dhe vlerësimi i të dhënave",
+        "grade": 2
+      },
+      {    
+        "name": "Instalimi i paisjeve kompjuterike",
+        "grade": 1
+      },
+      {    
+        "name": "Instalimi, konfigurimi i shërbimeve të serverit",
+        "grade": 3
+      },
+      {    
+        "name": "Realizimi i detyrave të TIK-ut",
+        "grade": 1
+      },
+      {    
+        "name": "Krijimi dhe publikimi i webfaqeve",
+        "grade": 2
+      },
+      {    
+        "name": "ISPP",
+        "grade": 1
+      },
+      {    
+        "name": "Praktika profesionale",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Erdi Salihu",
+    "subjects": [
+      {
+        "name": "Gjuhë Shqipe",
+        "grade": 4
+      },
+      {
+        "name": "Gjuhë Angleze",
+        "grade": 4
+      },
+      {
+        "name": "Matematikë",
+        "grade": 4
+      },
+      {
+        "name": "Fizikë",
+        "grade": 4
+      },
+      {
+        "name": "Edukatë Qytetare",
+        "grade": 4
+      },
+      {
+        "name": "Edukatë Fizike",
+        "grade": 5
+      },
+      {
+        "name": "Përdorimi i MS Office",
+        "grade": 4
+      },
+      {    
+        "name": "Përpunimi dhe vlerësimi i të dhënave",
+        "grade": 4
+      },
+      {    
+        "name": "Instalimi i paisjeve kompjuterike",
+        "grade": 5
+      },
+      {    
+        "name": "Instalimi, konfigurimi i shërbimeve të serverit",
+        "grade": 3
+      },
+      {    
+        "name": "Realizimi i detyrave të TIK-ut",
+        "grade": 3
+      },
+      {    
+        "name": "Krijimi dhe publikimi i webfaqeve",
+        "grade": 5
+      },
+      {    
+        "name": "ISPP",
+        "grade": 3
+      },
+      {    
+        "name": "Praktika profesionale",
+        "grade": 4
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Erin Uruqi",
+    "subjects": [
+      {
+        "name": "Gjuhë Shqipe",
+        "grade": 1
+      },
+      {
+        "name": "Gjuhë Angleze",
+        "grade": 4
+      },
+      {
+        "name": "Matematikë",
+        "grade": 3
+      },
+      {
+        "name": "Fizikë",
+        "grade": 2
+      },
+      {
+        "name": "Edukatë Qytetare",
+        "grade": 3
+      },
+      {
+        "name": "Edukatë Fizike",
+        "grade": 5
+      },
+      {
+        "name": "Përdorimi i MS Office",
+        "grade": 4
+      },
+      {    
+        "name": "Përpunimi dhe vlerësimi i të dhënave",
+        "grade": 3
+      },
+      {    
+        "name": "Instalimi i paisjeve kompjuterike",
+        "grade": 3
+      },
+      {    
+        "name": "Instalimi, konfigurimi i shërbimeve të serverit",
+        "grade": 3
+      },
+      {    
+        "name": "Realizimi i detyrave të TIK-ut",
+        "grade": 2
+      },
+      {    
+        "name": "Krijimi dhe publikimi i webfaqeve",
+        "grade": 2
+      },
+      {    
+        "name": "ISPP",
+        "grade": 3
+      },
+      {    
+        "name": "Praktika profesionale",
+        "grade": 4
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Erina Mustafa",
+    "subjects": [
+      {
+        "name": "Gjuhë Shqipe",
+        "grade": 4
+      },
+      {
+        "name": "Gjuhë Angleze",
+        "grade": 4
+      },
+      {
+        "name": "Matematikë",
+        "grade": 4
+      },
+      {
+        "name": "Fizikë",
+        "grade": 4
+      },
+      {
+        "name": "Edukatë Qytetare",
+        "grade": 4
+      },
+      {
+        "name": "Edukatë Fizike",
+        "grade": 5
+      },
+      {
+        "name": "Përdorimi i MS Office",
+        "grade": 4
+      },
+      {    
+        "name": "Përpunimi dhe vlerësimi i të dhënave",
+        "grade": 4
+      },
+      {    
+        "name": "Instalimi i paisjeve kompjuterike",
+        "grade": 5
+      },
+      {    
+        "name": "Instalimi, konfigurimi i shërbimeve të serverit",
+        "grade": 5
+      },
+      {    
+        "name": "Realizimi i detyrave të TIK-ut",
+        "grade": 4
+      },
+      {    
+        "name": "Krijimi dhe publikimi i webfaqeve",
+        "grade": 4
+      },
+      {    
+        "name": "ISPP",
+        "grade": 4
+      },
+      {    
+        "name": "Praktika profesionale",
+        "grade": 4
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Erion Pecani",
+    "subjects": [
+      {
+        "name": "Gjuhë Shqipe",
+        "grade": 5
+      },
+      {
+        "name": "Gjuhë Angleze",
+        "grade": 4
+      },
+      {
+        "name": "Matematikë",
+        "grade": 4
+      },
+      {
+        "name": "Fizikë",
+        "grade": 5
+      },
+      {
+        "name": "Edukatë Qytetare",
+        "grade": 4
+      },
+      {
+        "name": "Edukatë Fizike",
+        "grade": 5
+      },
+      {
+        "name": "Përdorimi i MS Office",
+        "grade": 5
+      },
+      {    
+        "name": "Përpunimi dhe vlerësimi i të dhënave",
+        "grade": 4
+      },
+      {    
+        "name": "Instalimi i paisjeve kompjuterike",
+        "grade": 4
+      },
+      {    
+        "name": "Instalimi, konfigurimi i shërbimeve të serverit",
+        "grade": 4
+      },
+      {    
+        "name": "Realizimi i detyrave të TIK-ut",
+        "grade": 5
+      },
+      {    
+        "name": "Krijimi dhe publikimi i webfaqeve",
+        "grade": 5
+      },
+      {    
+        "name": "ISPP",
+        "grade": 5
+      },
+      {    
+        "name": "Praktika profesionale",
+        "grade": 5
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Eris Bejta",
+    "subjects": [
+      {
+        "name": "Gjuhë Shqipe",
+        "grade": 3
+      },
+      {
+        "name": "Gjuhë Angleze",
+        "grade": 2
+      },
+      {
+        "name": "Matematikë",
+        "grade": 3
+      },
+      {
+        "name": "Fizikë",
+        "grade": 3
+      },
+      {
+        "name": "Edukatë Qytetare",
+        "grade": 1
+      },
+      {
+        "name": "Edukatë Fizike",
+        "grade": 4
+      },
+      {
+        "name": "Përdorimi i MS Office",
+        "grade": 4
+      },
+      {    
+        "name": "Përpunimi dhe vlerësimi i të dhënave",
+        "grade": 1
+      },
+      {    
+        "name": "Instalimi i paisjeve kompjuterike",
+        "grade": 2
+      },
+      {    
+        "name": "Instalimi, konfigurimi i shërbimeve të serverit",
+        "grade": 3
+      },
+      {    
+        "name": "Realizimi i detyrave të TIK-ut",
+        "grade": 2
+      },
+      {    
+        "name": "Krijimi dhe publikimi i webfaqeve",
+        "grade": 2
+      },
+      {    
+        "name": "ISPP",
+        "grade": 1
+      },
+      {    
+        "name": "Praktika profesionale",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Faris Sermaxhaj",
+    "subjects": [
+      {
+        "name": "Gjuhë Shqipe",
+        "grade": 5
+      },
+      {
+        "name": "Gjuhë Angleze",
+        "grade": 5
+      },
+      {
+        "name": "Matematikë",
+        "grade": 5
+      },
+      {
+        "name": "Fizikë",
+        "grade": 5
+      },
+      {
+        "name": "Edukatë Qytetare",
+        "grade": 5
+      },
+      {
+        "name": "Edukatë Fizike",
+        "grade": 5
+      },
+      {
+        "name": "Përdorimi i MS Office",
+        "grade": 5
+      },
+      {    
+        "name": "Përpunimi dhe vlerësimi i të dhënave",
+        "grade": 5
+      },
+      {    
+        "name": "Instalimi i paisjeve kompjuterike",
+        "grade": 5
+      },
+      {    
+        "name": "Instalimi, konfigurimi i shërbimeve të serverit",
+        "grade": 5
+      },
+      {    
+        "name": "Realizimi i detyrave të TIK-ut",
+        "grade": 5
+      },
+      {    
+        "name": "Krijimi dhe publikimi i webfaqeve",
+        "grade": 5
+      },
+      {    
+        "name": "ISPP",
+        "grade": 5
+      },
+      {    
+        "name": "Praktika profesionale",
+        "grade": 5
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Isa Xhelili",
+    "subjects": [
+      {
+        "name": "Gjuhë Shqipe",
+        "grade": 5
+      },
+      {
+        "name": "Gjuhë Angleze",
+        "grade": 5
+      },
+      {
+        "name": "Matematikë",
+        "grade": 5
+      },
+      {
+        "name": "Fizikë",
+        "grade": 5
+      },
+      {
+        "name": "Edukatë Qytetare",
+        "grade": 5
+      },
+      {
+        "name": "Edukatë Fizike",
+        "grade": 5
+      },
+      {
+        "name": "Përdorimi i MS Office",
+        "grade": 5
+      },
+      {    
+        "name": "Përpunimi dhe vlerësimi i të dhënave",
+        "grade": 5
+      },
+      {    
+        "name": "Instalimi i paisjeve kompjuterike",
+        "grade": 5
+      },
+      {    
+        "name": "Instalimi, konfigurimi i shërbimeve të serverit",
+        "grade": 5
+      },
+      {    
+        "name": "Realizimi i detyrave të TIK-ut",
+        "grade": 4
+      },
+      {    
+        "name": "Krijimi dhe publikimi i webfaqeve",
+        "grade": 5
+      },
+      {    
+        "name": "ISPP",
+        "grade": 5
+      },
+      {    
+        "name": "Praktika profesionale",
+        "grade": 5
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Lanik Bahtjari",
+    "subjects": [
+      {
+        "name": "Gjuhë Shqipe",
+        "grade": 4
+      },
+      {
+        "name": "Gjuhë Angleze",
+        "grade": 3
+      },
+      {
+        "name": "Matematikë",
+        "grade": 3
+      },
+      {
+        "name": "Fizikë",
+        "grade": 2
+      },
+      {
+        "name": "Edukatë Qytetare",
+        "grade": 1
+      },
+      {
+        "name": "Edukatë Fizike",
+        "grade": 4
+      },
+      {
+        "name": "Përdorimi i MS Office",
+        "grade": 4
+      },
+      {    
+        "name": "Përpunimi dhe vlerësimi i të dhënave",
+        "grade": 3
+      },
+      {    
+        "name": "Instalimi i paisjeve kompjuterike",
+        "grade": 5
+      },
+      {    
+        "name": "Instalimi, konfigurimi i shërbimeve të serverit",
+        "grade": 3
+      },
+      {    
+        "name": "Realizimi i detyrave të TIK-ut",
+        "grade": 2
+      },
+      {    
+        "name": "Krijimi dhe publikimi i webfaqeve",
+        "grade": 4
+      },
+      {    
+        "name": "ISPP",
+        "grade": 2
+      },
+      {    
+        "name": "Praktika profesionale",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Loni Kryeziu",
+    "subjects": [
+      {
+        "name": "Gjuhë Shqipe",
+        "grade": 5
+      },
+      {
+        "name": "Gjuhë Angleze",
+        "grade": 5
+      },
+      {
+        "name": "Matematikë",
+        "grade": 5
+      },
+      {
+        "name": "Fizikë",
+        "grade": 5
+      },
+      {
+        "name": "Edukatë Qytetare",
+        "grade": 5
+      },
+      {
+        "name": "Edukatë Fizike",
+        "grade": 5
+      },
+      {
+        "name": "Përdorimi i MS Office",
+        "grade": 5
+      },
+      {    
+        "name": "Përpunimi dhe vlerësimi i të dhënave",
+        "grade": 5
+      },
+      {    
+        "name": "Instalimi i paisjeve kompjuterike",
+        "grade": 5
+      },
+      {    
+        "name": "Instalimi, konfigurimi i shërbimeve të serverit",
+        "grade": 5
+      },
+      {    
+        "name": "Realizimi i detyrave të TIK-ut",
+        "grade": 4
+      },
+      {    
+        "name": "Krijimi dhe publikimi i webfaqeve",
+        "grade": 5
+      },
+      {    
+        "name": "ISPP",
+        "grade": 5
+      },
+      {    
+        "name": "Praktika profesionale",
+        "grade": 5
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Lorena Idrizi",
+    "subjects": [
+      {
+        "name": "Gjuhë Shqipe",
+        "grade": 2
+      },
+      {
+        "name": "Gjuhë Angleze",
+        "grade": 3
+      },
+      {
+        "name": "Matematikë",
+        "grade": 2
+      },
+      {
+        "name": "Fizikë",
+        "grade": 2
+      },
+      {
+        "name": "Edukatë Qytetare",
+        "grade": 2
+      },
+      {
+        "name": "Edukatë Fizike",
+        "grade": 5
+      },
+      {
+        "name": "Përdorimi i MS Office",
+        "grade": 2
+      },
+      {    
+        "name": "Përpunimi dhe vlerësimi i të dhënave",
+        "grade": 2
+      },
+      {    
+        "name": "Instalimi i paisjeve kompjuterike",
+        "grade": 2
+      },
+      {    
+        "name": "Instalimi, konfigurimi i shërbimeve të serverit",
+        "grade": 4
+      },
+      {    
+        "name": "Realizimi i detyrave të TIK-ut",
+        "grade": 2
+      },
+      {    
+        "name": "Krijimi dhe publikimi i webfaqeve",
+        "grade": 3
+      },
+      {    
+        "name": "ISPP",
+        "grade": 2
+      },
+      {    
+        "name": "Praktika profesionale",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Olsa Rahimi",
+    "subjects": [
+      {
+        "name": "Gjuhë Shqipe",
+        "grade": 3
+      },
+      {
+        "name": "Gjuhë Angleze",
+        "grade": 5
+      },
+      {
+        "name": "Matematikë",
+        "grade": 3
+      },
+      {
+        "name": "Fizikë",
+        "grade": 3
+      },
+      {
+        "name": "Edukatë Qytetare",
+        "grade": 4
+      },
+      {
+        "name": "Edukatë Fizike",
+        "grade": 5
+      },
+      {
+        "name": "Përdorimi i MS Office",
+        "grade": 5
+      },
+      {    
+        "name": "Përpunimi dhe vlerësimi i të dhënave",
+        "grade": 4
+      },
+      {    
+        "name": "Instalimi i paisjeve kompjuterike",
+        "grade": 4
+      },
+      {    
+        "name": "Instalimi, konfigurimi i shërbimeve të serverit",
+        "grade": 5
+      },
+      {    
+        "name": "Realizimi i detyrave të TIK-ut",
+        "grade": 3
+      },
+      {    
+        "name": "Krijimi dhe publikimi i webfaqeve",
+        "grade": 3
+      },
+      {    
+        "name": "ISPP",
+        "grade": 3
+      },
+      {    
+        "name": "Praktika profesionale",
+        "grade": 3
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Olti Sejfiji",
+    "subjects": [
+      {
+        "name": "Gjuhë Shqipe",
+        "grade": 3
+      },
+      {
+        "name": "Gjuhë Angleze",
+        "grade": 2
+      },
+      {
+        "name": "Matematikë",
+        "grade": 2
+      },
+      {
+        "name": "Fizikë",
+        "grade": 3
+      },
+      {
+        "name": "Edukatë Qytetare",
+        "grade": 3
+      },
+      {
+        "name": "Edukatë Fizike",
+        "grade": 4
+      },
+      {
+        "name": "Përdorimi i MS Office",
+        "grade": 4
+      },
+      {    
+        "name": "Përpunimi dhe vlerësimi i të dhënave",
+        "grade": 4
+      },
+      {    
+        "name": "Instalimi i paisjeve kompjuterike",
+        "grade": 5
+      },
+      {    
+        "name": "Instalimi, konfigurimi i shërbimeve të serverit",
+        "grade": 5
+      },
+      {    
+        "name": "Realizimi i detyrave të TIK-ut",
+        "grade": 3
+      },
+      {    
+        "name": "Krijimi dhe publikimi i webfaqeve",
+        "grade": 3
+      },
+      {    
+        "name": "ISPP",
+        "grade": 4
+      },
+      {    
+        "name": "Praktika profesionale",
+        "grade": 4
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Parim Selimi",
+    "subjects": [
+      {
+        "name": "Gjuhë Shqipe",
+        "grade": 5
+      },
+      {
+        "name": "Gjuhë Angleze",
+        "grade": 5
+      },
+      {
+        "name": "Matematikë",
+        "grade": 5
+      },
+      {
+        "name": "Fizikë",
+        "grade": 5
+      },
+      {
+        "name": "Edukatë Qytetare",
+        "grade": 5
+      },
+      {
+        "name": "Edukatë Fizike",
+        "grade": 5
+      },
+      {
+        "name": "Përdorimi i MS Office",
+        "grade": 5
+      },
+      {    
+        "name": "Përpunimi dhe vlerësimi i të dhënave",
+        "grade": 5
+      },
+      {    
+        "name": "Instalimi i paisjeve kompjuterike",
+        "grade": 5
+      },
+      {    
+        "name": "Instalimi, konfigurimi i shërbimeve të serverit",
+        "grade": 5
+      },
+      {    
+        "name": "Realizimi i detyrave të TIK-ut",
+        "grade": 4
+      },
+      {    
+        "name": "Krijimi dhe publikimi i webfaqeve",
+        "grade": 5
+      },
+      {    
+        "name": "ISPP",
+        "grade": 5
+      },
+      {    
+        "name": "Praktika profesionale",
+        "grade": 5
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Puhiza Sejdiu",
+    "subjects": [
+      {
+        "name": "Gjuhë Shqipe",
+        "grade": 4
+      },
+      {
+        "name": "Gjuhë Angleze",
+        "grade": 5
+      },
+      {
+        "name": "Matematikë",
+        "grade": 5
+      },
+      {
+        "name": "Fizikë",
+        "grade": 5
+      },
+      {
+        "name": "Edukatë Qytetare",
+        "grade": 5
+      },
+      {
+        "name": "Edukatë Fizike",
+        "grade": 5
+      },
+      {
+        "name": "Përdorimi i MS Office",
+        "grade": 5
+      },
+      {    
+        "name": "Përpunimi dhe vlerësimi i të dhënave",
+        "grade": 4
+      },
+      {    
+        "name": "Instalimi i paisjeve kompjuterike",
+        "grade": 5
+      },
+      {    
+        "name": "Instalimi, konfigurimi i shërbimeve të serverit",
+        "grade": 5
+      },
+      {    
+        "name": "Realizimi i detyrave të TIK-ut",
+        "grade": 4
+      },
+      {    
+        "name": "Krijimi dhe publikimi i webfaqeve",
+        "grade": 5
+      },
+      {    
+        "name": "ISPP",
+        "grade": 4
+      },
+      {    
+        "name": "Praktika profesionale",
+        "grade": 4
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Rina Hyseni",
+    "subjects": [
+      {
+        "name": "Gjuhë Shqipe",
+        "grade": 4
+      },
+      {
+        "name": "Gjuhë Angleze",
+        "grade": 5
+      },
+      {
+        "name": "Matematikë",
+        "grade": 5
+      },
+      {
+        "name": "Fizikë",
+        "grade": 5
+      },
+      {
+        "name": "Edukatë Qytetare",
+        "grade": 4
+      },
+      {
+        "name": "Edukatë Fizike",
+        "grade": 5
+      },
+      {
+        "name": "Përdorimi i MS Office",
+        "grade": 5
+      },
+      {    
+        "name": "Përpunimi dhe vlerësimi i të dhënave",
+        "grade": 5
+      },
+      {    
+        "name": "Instalimi i paisjeve kompjuterike",
+        "grade": 5
+      },
+      {    
+        "name": "Instalimi, konfigurimi i shërbimeve të serverit",
+        "grade": 5
+      },
+      {    
+        "name": "Realizimi i detyrave të TIK-ut",
+        "grade": 3
+      },
+      {    
+        "name": "Krijimi dhe publikimi i webfaqeve",
+        "grade": 5
+      },
+      {    
+        "name": "ISPP",
+        "grade": 5
+      },
+      {    
+        "name": "Praktika profesionale",
+        "grade": 4
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Rrezart Masurica",
+    "subjects": [
+      {
+        "name": "Gjuhë Shqipe",
+        "grade": 2
+      },
+      {
+        "name": "Gjuhë Angleze",
+        "grade": 2
+      },
+      {
+        "name": "Matematikë",
+        "grade": 1
+      },
+      {
+        "name": "Fizikë",
+        "grade": 2
+      },
+      {
+        "name": "Edukatë Qytetare",
+        "grade": 2
+      },
+      {
+        "name": "Edukatë Fizike",
+        "grade": 4
+      },
+      {
+        "name": "Përdorimi i MS Office",
+        "grade": 5
+      },
+      {    
+        "name": "Përpunimi dhe vlerësimi i të dhënave",
+        "grade": 3
+      },
+      {    
+        "name": "Instalimi i paisjeve kompjuterike",
+        "grade": 1
+      },
+      {    
+        "name": "Instalimi, konfigurimi i shërbimeve të serverit",
+        "grade": 5
+      },
+      {    
+        "name": "Realizimi i detyrave të TIK-ut",
+        "grade": 4
+      },
+      {    
+        "name": "Krijimi dhe publikimi i webfaqeve",
+        "grade": 3
+      },
+      {    
+        "name": "ISPP",
+        "grade": 3
+      },
+      {    
+        "name": "Praktika profesionale",
+        "grade": 2
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Vigan Latifi",
+    "subjects": [
+      {
+        "name": "Gjuhë Shqipe",
+        "grade": 5
+      },
+      {
+        "name": "Gjuhë Angleze",
+        "grade": 5
+      },
+      {
+        "name": "Matematikë",
+        "grade": 5
+      },
+      {
+        "name": "Fizikë",
+        "grade": 5
+      },
+      {
+        "name": "Edukatë Qytetare",
+        "grade": 5
+      },
+      {
+        "name": "Edukatë Fizike",
+        "grade": 5
+      },
+      {
+        "name": "Përdorimi i MS Office",
+        "grade": 5
+      },
+      {    
+        "name": "Përpunimi dhe vlerësimi i të dhënave",
+        "grade": 5
+      },
+      {    
+        "name": "Instalimi i paisjeve kompjuterike",
+        "grade": 5
+      },
+      {    
+        "name": "Instalimi, konfigurimi i shërbimeve të serverit",
+        "grade": 5
+      },
+      {    
+        "name": "Realizimi i detyrave të TIK-ut",
+        "grade": 5
+      },
+      {    
+        "name": "Krijimi dhe publikimi i webfaqeve",
+        "grade": 5
+      },
+      {    
+        "name": "ISPP",
+        "grade": 5
+      },
+      {    
+        "name": "Praktika profesionale",
+        "grade": 5
+      }
+    ]
+  }
+]
